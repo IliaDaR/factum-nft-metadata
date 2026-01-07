@@ -1,0 +1,10 @@
+{
+  "name": "Factum Agreements",
+  "description": "🤝 Soulbound Token certificates for P2P agreements on TON blockchain.\n\nEach NFT represents a verified agreement between two parties.\nThese tokens are non-transferable (Soulbound).",
+  "image": "https://iliadar.github.io/factum-nft-metadata/images/collection.png",
+  "cover_image": "https://iliadar.github.io/factum-nft-metadata/images/cover.png",
+  "external_link": "https://t.me/bot_factum_bot",
+  "social_links": [
+    "https://t.me/bot_factum_bot"
+  ]
+}
