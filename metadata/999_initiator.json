@@ -1,0 +1,19 @@
+{
+  "name": "Factum #999 • Initiator",
+  "description": "🤝 Agreement Certificate\n\n📋 Test Agreement\n\n💰 Amount: 1.5 TON\n📅 Deadline: 2026-12-31\n👤 Role: Initiator",
+  "image": "https://iliadar.github.io/factum-nft-metadata/images/factum_999_initiator.png",
+  "attributes": [
+    {
+      "trait_type": "Agreement ID",
+      "value": "999"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Initiator"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Soulbound Token"
+    }
+  ]
+}
