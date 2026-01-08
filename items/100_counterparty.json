@@ -1,6 +1,6 @@
 {
   "name": "FACTUM #100 (Counterparty)",
-  "description": "📜 ДОГОВОР ФИКСАЦИИ #100\n\n📋 Test Agreement #100\n\n👤 ИНИЦИАТОР: @alice_test\n   Обязуется оплатить: 1.0 TON\n\n🤝 КОНТРАГЕНТ: @bob_test\n   Обязуется: Service delivery obligation\n\n📅 Срок: 2026-02-15\n🕐 Создано: 08.01.2026 11:11\n\n⚡ FACTUM • Blockchain Agreement",
+  "description": "📜 ДОГОВОР ФИКСАЦИИ #100\n\n📋 Test Agreement #100\n\n👤 ИНИЦИАТОР: @alice_test\n   Обязуется оплатить: 1.0 TON\n\n🤝 КОНТРАГЕНТ: @bob_test\n   Обязуется: Service delivery obligation\n\n📅 Срок: 2026-02-15\n🕐 Создано: 08.01.2026 11:35\n\n⚡ FACTUM • Blockchain Agreement",
   "image": "https://IliaDaR.github.io/factum-nft-metadata/images/nft_100_counterparty.png",
   "attributes": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "trait_type": "Created",
-      "value": "08.01.2026 11:11"
+      "value": "08.01.2026 11:35"
     }
   ],
   "external_url": "https://t.me/bot_factum_bot?start=fix_100"
